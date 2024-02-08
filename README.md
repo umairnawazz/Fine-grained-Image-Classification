@@ -1,2 +1,2 @@
 # Fine-grained-Image-Classification
-A novel hybrid model combining ConvNets and ViTs, significantly enhancing fine-grained image classification on multiple datasets.
+This project details the creation of a cutting-edge method that merges Convolutional Neural Networks (ConvNets) with Vision Transformers (ViTs) to improve fine-grained image classification accuracy, focusing on datasets such as CUB-200-2011, FGVC-Aircraft, and FoodX. By integrating a Vision Transformer module with a ConvNext baseline model, this approach achieves a hybrid model that excels in capturing detailed and global image patterns, significantly advancing image classification capabilities.
